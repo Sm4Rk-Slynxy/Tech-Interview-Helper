@@ -103,11 +103,6 @@ interview-prep-generator/
 └── README.md
 ```
 
-## Security notes
-
-- Never commit your `.env` — it's already in `.gitignore`.
-- The Anthropic key lives only in the server environment. OpenRouter keys you enter in the settings panel stay in browser memory for the session and are sent only to OpenRouter.
-
 ## License
 
 MIT — see [LICENSE](./LICENSE).
